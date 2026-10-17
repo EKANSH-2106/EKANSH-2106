@@ -21,9 +21,11 @@ I'm passionate about building practical software solutions, exploring new techno
   <a href="mailto:ekanshsinha2119@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/EKANSH-2106">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+ 
+<a href="https://www.instagram.com/ekanshh_06/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </p>
 
 ---
