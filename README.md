@@ -75,15 +75,26 @@ A cybersecurity project focused on developing a mobile voice detection system.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EKANSH-2106&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKANSH-2106&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+<h2>🧠 Currently Exploring</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="AI and Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-007ACC?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures and Algorithms"/>
+  <img src="https://img.shields.io/badge/Backend%20Development-2F855A?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend Development"/>
 </p>
+
+- 🤖 Exploring AI-powered applications and chatbot development.
+- 🧩 Strengthening problem-solving skills through DSA.
+- ⚙️ Learning how backend systems and APIs work.
+- 🛡️ Building projects to explore cybersecurity and software engineering.
 
 ---
 
-<p align="center">
-  <i>Learning continuously. Building consistently. Improving every day.</i>
+<h3>🎯 My Current Goal</h3>
+
+<p>
+  To turn what I learn into practical projects, strengthen my fundamentals,
+  and become a better software developer through consistent building.
 </p>
+
